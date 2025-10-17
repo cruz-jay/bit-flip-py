@@ -1,0 +1,28 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# .DS_Store
+news_fetch_api/.DS_Store
+reddit/.DS_Store
+py-kafka/.DS_Store
+
+# .env variables
+news_fetch_api/.env
+reddit/.env
+py-kafka/.env
+
+# jetbrains 
+
+news_fetch_api/.idea
+reddit/.idea
+py-kafka/.idea
+
+.DS_Store
+
+
+
+
