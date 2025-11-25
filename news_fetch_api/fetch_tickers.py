@@ -236,7 +236,6 @@ def main():
     else:
         logging.warning("No articles fetched")
 
-
 def main_continuous():
     """
     Continuous mode: Run every 5 minutes

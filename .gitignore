@@ -16,7 +16,6 @@ reddit/.env
 py-kafka/.env
 
 # jetbrains 
-
 news_fetch_api/.idea
 reddit/.idea
 py-kafka/.idea
